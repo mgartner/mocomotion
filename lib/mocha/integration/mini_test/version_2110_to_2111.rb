@@ -1,7 +1,3 @@
-require 'mocha/integration/assertion_counter'
-require 'mocha/integration/monkey_patcher'
-require 'mocha/integration/mini_test/exception_translation'
-
 module Mocha
   module Integration
     module MiniTest

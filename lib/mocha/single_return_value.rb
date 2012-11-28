@@ -1,5 +1,3 @@
-require 'mocha/is_a'
-
 module Mocha
 
   class SingleReturnValue

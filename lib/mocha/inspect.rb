@@ -1,5 +1,3 @@
-require 'date'
-
 module Mocha
 
   module ObjectMethods

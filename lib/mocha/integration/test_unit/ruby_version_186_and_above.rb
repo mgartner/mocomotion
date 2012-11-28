@@ -1,7 +1,3 @@
-require 'mocha/integration/assertion_counter'
-require 'mocha/integration/monkey_patcher'
-require 'mocha/expectation_error'
-
 module Mocha
   module Integration
     module TestUnit

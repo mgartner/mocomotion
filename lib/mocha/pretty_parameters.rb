@@ -1,5 +1,3 @@
-require 'mocha/inspect'
-
 module Mocha
 
   class PrettyParameters

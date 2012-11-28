@@ -1,14 +1,3 @@
-require 'mocha/debug'
-
-require 'mocha/integration/test_unit/nothing'
-require 'mocha/integration/test_unit/ruby_version_185_and_below'
-require 'mocha/integration/test_unit/ruby_version_186_and_above'
-require 'mocha/integration/test_unit/gem_version_200'
-require 'mocha/integration/test_unit/gem_version_201_to_202'
-require 'mocha/integration/test_unit/gem_version_203_to_220'
-require 'mocha/integration/test_unit/gem_version_230_to_250'
-require 'mocha/integration/test_unit/adapter'
-
 module Mocha
   module Integration
     module TestUnit

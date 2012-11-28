@@ -1,5 +1,3 @@
-require 'mocha/module_method'
-
 module Mocha
 
   # @private

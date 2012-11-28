@@ -1,5 +1,3 @@
-require 'mocha/backtrace_filter'
-
 module Mocha
 
   # Exception raised when stubbing a particular method is not allowed.

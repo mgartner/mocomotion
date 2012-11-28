@@ -1,11 +1,3 @@
-require 'mocha/parameter_matchers'
-require 'mocha/hooks'
-require 'mocha/mockery'
-require 'mocha/sequence'
-require 'mocha/object_methods'
-require 'mocha/module_methods'
-require 'mocha/class_methods'
-
 module Mocha
 
   # Methods added to +Test::Unit::TestCase+, +MiniTest::Unit::TestCase+ or equivalent.

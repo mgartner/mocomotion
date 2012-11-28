@@ -1,13 +1,3 @@
-require 'metaclass'
-require 'mocha/expectation'
-require 'mocha/expectation_list'
-require 'mocha/names'
-require 'mocha/method_matcher'
-require 'mocha/parameters_matcher'
-require 'mocha/unexpected_invocation'
-require 'mocha/argument_iterator'
-require 'mocha/expectation_error_factory'
-
 module Mocha
 
   # Traditional mock object.

@@ -1,12 +1,3 @@
-require 'mocha/central'
-require 'mocha/mock'
-require 'mocha/names'
-require 'mocha/state_machine'
-require 'mocha/logger'
-require 'mocha/configuration'
-require 'mocha/stubbing_error'
-require 'mocha/expectation_error_factory'
-
 module Mocha
 
   class Mockery

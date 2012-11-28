@@ -1,5 +1,3 @@
-require 'mocha/parameter_matchers/equals'
-
 module Mocha
 
   module ObjectMethods

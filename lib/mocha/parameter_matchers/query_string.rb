@@ -1,6 +1,3 @@
-require 'mocha/parameter_matchers/base'
-require 'uri'
-
 module Mocha
   module ParameterMatchers
 

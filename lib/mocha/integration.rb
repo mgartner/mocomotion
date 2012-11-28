@@ -1,7 +1,3 @@
-require 'mocha/deprecation'
-require 'mocha/integration/test_unit'
-require 'mocha/integration/mini_test'
-
 module Mocha
   module Integration
     def self.activate

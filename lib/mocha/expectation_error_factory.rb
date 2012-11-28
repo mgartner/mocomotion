@@ -1,6 +1,3 @@
-require 'mocha/backtrace_filter'
-require 'mocha/expectation_error'
-
 module Mocha
 
   # This factory determines what class of exception should be raised when Mocha detects a test failure.

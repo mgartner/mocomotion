@@ -1,8 +1,3 @@
-require 'mocha/mockery'
-require 'mocha/instance_method'
-require 'mocha/argument_iterator'
-require 'mocha/expectation_error_factory'
-
 module Mocha
 
   # Methods added to all objects to allow mocking and stubbing on real (i.e. non-mock) objects.

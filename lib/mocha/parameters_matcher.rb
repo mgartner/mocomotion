@@ -1,6 +1,3 @@
-require 'mocha/inspect'
-require 'mocha/parameter_matchers'
-
 module Mocha
 
   class ParametersMatcher

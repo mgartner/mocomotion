@@ -1,5 +1,3 @@
-require 'mocha/mockery'
-
 module Mocha
 
   # Integration hooks for test library authors.

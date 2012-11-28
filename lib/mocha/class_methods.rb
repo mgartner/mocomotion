@@ -1,7 +1,3 @@
-require 'mocha/mockery'
-require 'mocha/class_method'
-require 'mocha/any_instance_method'
-
 module Mocha
 
   # Methods added to all classes to allow mocking and stubbing on real (i.e. non-mock) objects.

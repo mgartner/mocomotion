@@ -1,17 +1,3 @@
-require 'mocha/debug'
-
-require 'mocha/integration/mini_test/nothing'
-require 'mocha/integration/mini_test/version_13'
-require 'mocha/integration/mini_test/version_140'
-require 'mocha/integration/mini_test/version_141'
-require 'mocha/integration/mini_test/version_142_to_172'
-require 'mocha/integration/mini_test/version_200'
-require 'mocha/integration/mini_test/version_201_to_222'
-require 'mocha/integration/mini_test/version_230_to_2101'
-require 'mocha/integration/mini_test/version_2110_to_2111'
-require 'mocha/integration/mini_test/version_2112_to_320'
-require 'mocha/integration/mini_test/adapter'
-
 module Mocha
   module Integration
     module MiniTest

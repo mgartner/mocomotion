@@ -1,7 +1,3 @@
-require 'mocha/no_yields'
-require 'mocha/single_yield'
-require 'mocha/multiple_yields'
-
 module Mocha
 
   class YieldParameters

@@ -1,7 +1,3 @@
-require 'mocha/api'
-require 'mocha/integration/assertion_counter'
-require 'mocha/expectation_error_factory'
-
 module Mocha
   module Integration
     module MiniTest

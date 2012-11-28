@@ -1,5 +1,3 @@
-require 'mocha/single_return_value'
-
 module Mocha
 
   class ReturnValues

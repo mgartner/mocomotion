@@ -1,6 +1,3 @@
-require 'mocha/parameter_matchers/base'
-require 'yaml'
-
 module Mocha
 
   module ParameterMatchers

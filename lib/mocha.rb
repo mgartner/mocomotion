@@ -1,8 +1,3 @@
-require 'mocha/version'
-require 'mocha/integration'
-require 'mocha/deprecation'
-require 'mocha/setup'
-
 unless defined?(Motion::Project::Config)
   raise "This file must be required within a RubyMotion project Rakefile."
 end

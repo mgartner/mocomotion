@@ -1,5 +1,3 @@
-require 'metaclass'
-
 module Mocha
 
   class ClassMethod

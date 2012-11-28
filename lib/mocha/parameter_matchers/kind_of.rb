@@ -1,5 +1,3 @@
-require 'mocha/parameter_matchers/base'
-
 module Mocha
 
   module ParameterMatchers

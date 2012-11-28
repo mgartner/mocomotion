@@ -1,15 +1,3 @@
-require 'mocha/method_matcher'
-require 'mocha/parameters_matcher'
-require 'mocha/expectation_error'
-require 'mocha/return_values'
-require 'mocha/exception_raiser'
-require 'mocha/thrower'
-require 'mocha/yield_parameters'
-require 'mocha/is_a'
-require 'mocha/in_state_ordering_constraint'
-require 'mocha/change_state_side_effect'
-require 'mocha/cardinality'
-
 module Mocha
 
   # Methods on expectations returned from {Mock#expects}, {Mock#stubs}, {ObjectMethods#expects} and {ObjectMethods#stubs}.

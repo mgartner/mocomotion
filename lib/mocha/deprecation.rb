@@ -1,5 +1,3 @@
-require 'mocha/debug'
-
 module Mocha
 
   class Deprecation
